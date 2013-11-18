@@ -293,7 +293,7 @@ nav, ul {
 		position: absolute;
 		display: block;
 		bottom: -1em;
-		border: 26px solid #D90A0A;
+		border: 26px solid #C80909;
 		z-index: -5;
 	}
 	.rectangle:before {
