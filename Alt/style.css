@@ -457,8 +457,10 @@ footer {
 	padding: 10px 0;
 	color: #eee;
 	margin-top: 0 !important;
-	height: 45px;
+	height: 65px;
 }
+
+#created {clear:both; width:100%;}
 
 address {
 	float: right;
