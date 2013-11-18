@@ -460,7 +460,7 @@ footer {
 	height: 65px;
 }
 
-#created {clear:both; width:100%;}
+#created {clear:both; width:100%; position:absolute; bottom:0; text-align:center;}
 
 address {
 	float: right;
