@@ -91,6 +91,13 @@ blockquote:before {
 	font: italic 400%/1 Cochin,Georgia,"Times New Roman", serif;
 	color: #999;
 }
+
+@media only screen and (min-width: 1240px) {
+  blockquote:before{
+  	font: italic 100%/1 Cochin,Georgia,"Times New Roman", serif;
+  }
+}
+
 #content {
 	min-height:500px;
 }
