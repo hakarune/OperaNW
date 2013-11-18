@@ -465,7 +465,7 @@ address {
 	text-align:right;
 	font: bold .6em Tahoma, Helvetica, Arial, Sans-Serif;
 	color: #666;
-	margin: 25px 12px;
+	margin: 25px 12px 0 12px;
 	width: 35%;
 }
 
@@ -478,19 +478,21 @@ address a {
    clear:both; 
    width:100%; 
    text-align:center;
+   margin:0;
+   padding:0;
 }
 
 @media only screen and (min-width: 800px) {
 	address {
 		width: 16%;
-		margin: 30px 15px;
+		margin: 30px 15px 0 15px;
 	}
 }
 
 #container {
 	margin: 0 auto;
 	width: 100%;
-	margin-top: -17px !important;
+	margin-top: -12px !important;
 }
 
 /* Social Links
