@@ -474,7 +474,7 @@ address a {
 
 #social a {
 	float:left;
-	opacity:.6;
+	opacity:.4;
 	-webkit-transition: all 0.5s;  /* Safari 3.2+, Chrome */
 	-moz-transition: all 0.5s;  /* Firefox 4-15 */
 	-o-transition: all 0.5s;  /* Opera 10.5–12.00 */
