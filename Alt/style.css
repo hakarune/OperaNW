@@ -303,7 +303,7 @@ nav, ul {
 		position: absolute;
 		display: block;
 		border-style: solid;
-		border-color: #D3522B transparent transparent transparent;
+		border-color: #D0522B transparent transparent transparent;
 		bottom: -1em;
 	}
 	.rectangle #navigation:before {
