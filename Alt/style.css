@@ -554,6 +554,10 @@ address a {
 	width: 38px;
 }
 
+.large-btns_nav:hover {
+	background: #323232 url("images/themes.png") no-repeat left 50%;
+}
+
 .large-btns_nav.next {
 	left: auto;
 	background-position: right 50%;
