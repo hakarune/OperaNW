@@ -581,6 +581,8 @@ address a {
 	height: 9px;
 }
 
+.centered-btns_tabs a:hover, .transparent-btns_tabs a:hover, .large-btns_tabs a:hover {background: rgba(255,255,255, .8)} 
+
 .centered-btns_tabs, .transparent-btns_tabs, .large-btns_tabs {
 	margin-top: 0px;
 	text-align: center;
