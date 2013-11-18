@@ -294,7 +294,7 @@ nav, ul {
 		display: block;
 		bottom: -1em;
 		border: 26px solid #D90A0A;
-		z-index: -5;
+		z-index: -10;
 	}
 	.rectangle:before {
 		left: -2em;
