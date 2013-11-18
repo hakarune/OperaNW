@@ -293,7 +293,7 @@ nav, ul {
 		display: block;
 		bottom: -1em;
 		border: 26px solid #C80909;
-		z-index: -1;
+		z-index: -5;
 	}
 	.rectangle:before {
 		left: -2em;
@@ -312,6 +312,7 @@ nav, ul {
 		border-style: solid;
 		border-color: #B0311D transparent transparent transparent;
 		bottom: -1em;
+		z-index:-4;
 	}
 	.rectangle #navigation:before {
 		left: 2px;
