@@ -460,14 +460,6 @@ footer {
 	height: 65px;
 }
 
-#created {
-   clear:both; 
-   width:100%; 
-   position:absolute; 
-   bottom:0; 
-   text-align:center;
-}
-
 address {
 	float: right;
 	text-align:right;
@@ -482,6 +474,11 @@ address a {
 	color:#666;
 }
 
+#created {
+   clear:both; 
+   width:100%; 
+   text-align:center;
+}
 
 @media only screen and (min-width: 800px) {
 	address {
