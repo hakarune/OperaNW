@@ -152,7 +152,7 @@ header{
 /* Navigation
 --------------------------------------------------------------------------------*/
 nav, ul {
-	width: 93%;
+	width: 100%;
 	text-align:center;
 	margin: 40px auto -20px auto;
 }
