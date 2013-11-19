@@ -428,6 +428,59 @@ iframe[seamless]{
 /* Media Quueries For Larger Screens (Site Formatted for Mobile First)
 --------------------------------------------------------------------------------*/
 
+@media only screen and (min-width: 490px) {
+	
+	#navigation li {
+		margin: .5em 0.5em;
+		width:17%;
+	}
+	
+	#navigation li a {
+		font-size: 1.1em;
+	}
+	
+	.rectangle:before, .rectangle:after {
+		content: "";
+		position: absolute;
+		display: block;
+		bottom: -1em;
+		border: 26px solid #D90A0A;
+		z-index: -1;
+	}
+	
+	.rectangle:before {
+		left: -2em;
+		border-right-width: 1.5em;
+		border-left-color: transparent;
+	}
+	
+	.rectangle:after {
+		right: -2em;
+		border-left-width: 1.5em;
+		border-right-color: transparent;
+	}
+	
+	.rectangle #navigation:before, .rectangle #navigation:after {
+		content: "";
+		position: absolute;
+		display: block;
+		border-style: solid;
+		border-color: #D3522B transparent transparent transparent;
+		bottom: -1em;
+	}
+	
+	.rectangle #navigation:before {
+		left: 2px;
+		border-width: 1em 0 0 1em;
+	}
+	
+	.rectangle #navigation:after {
+		right: 2px;
+		border-width: 1em 1em 0 0;
+	}
+	
+}
+
 @media only screen and (min-width: 800px) {
 	#content {
 		background: rgb(255,255,255); /* Old browsers */
