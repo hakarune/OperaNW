@@ -412,7 +412,7 @@ iframe[seamless]{
     overflow: hidden;
 	margin:0 auto;
 	display:block;
-	margin: 25px auto 0 auto;
+	margin: 25px auto 10px auto;
 	width: 100%;
 	height: 200px;;
 }
