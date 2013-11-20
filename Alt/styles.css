@@ -94,6 +94,7 @@ li.active {
 
 li.active a {
 	line-height: 45px !important;
+	text-decoration:underline;
 }
 
 li.active a:hover {
