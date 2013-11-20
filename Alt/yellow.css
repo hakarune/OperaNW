@@ -182,7 +182,7 @@ nav, ul {
 }
 
 .rectangle {
-   background: #fff68e   /*D90A0A*/;
+   background: #EB9E00 /*#fff68e*/   /*D90A0A*/;
    height: 45px;
    position: relative;
    -moz-box-shadow: 0px 0px 4px rgba(0,0,0,0.55);
@@ -215,7 +215,7 @@ section {
 }
 
 section h2, aside h2 {
-	background: #fde26d; /* Old browsers */
+	background: #EB9E00 /*#fde26d*/; /* Old browsers */
 	font-family: 'Lato', sans-serif;
 	line-height: 15px;
 	color:#333;
@@ -491,7 +491,7 @@ iframe[seamless]{
 		position: absolute;
 		display: block;
 		bottom: -1em;
-		border: 26px solid #fff68e;
+		border: 26px solid /*#fff68e*/ #EB9E00 ;
 		z-index: -1;
 	}
 	
