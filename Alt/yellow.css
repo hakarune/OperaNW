@@ -216,6 +216,9 @@ section {
 
 section h2, aside h2 {
 	background: #EB9E00 /*#fde26d*/; /* Old browsers */
+	border-radius:15px; 
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
 	font-family: 'Lato', sans-serif;
 	line-height: 15px;
 	color:#333;
