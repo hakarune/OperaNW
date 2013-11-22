@@ -20,7 +20,7 @@ body {
 }
 
 p a, h2 a, a {
-	color: #ae936f;
+	color: #c9c9c9;
 }
 
 p a:hover, h2 a:hover, a:hover {
@@ -703,6 +703,7 @@ iframe[seamless]{
 
 @media (max-width: 480px) {
   #contact #content { margin-top:45px;}
+  #contact #content a {color: #ccc;}
 }
 
 #contact #content { float:none; width:90%; margin: 0 auto;}
