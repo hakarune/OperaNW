@@ -697,7 +697,12 @@ iframe[seamless]{
 	span.quoted {
 		font-size:.8em;
 	}
+	
 	#gallery { width:90%;}
+}
+
+@media (max-width: 480px) {
+  #contact #content { margin-top:45px;}
 }
 
 #contact #content { float:none; width:90%; margin: 0 auto;}
