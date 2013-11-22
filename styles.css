@@ -490,6 +490,7 @@ iframe[seamless]{
 	}
 	
 	 #contact #content a {color: #DA3434;}
+	 #contact #content a:hover {color: #666;}
 	
 	ul { color:#323232; }
 	
@@ -706,6 +707,7 @@ iframe[seamless]{
 @media only screen and (max-width: 795px) {
   #contact #content { margin-top:35px !important;}
   #contact #content a {color: #ccc;}
+  #contact #content a:hover {color: #666;}
 }
 
 #contact #content { float:none; width:90%; margin: 0 auto;}
