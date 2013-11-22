@@ -702,7 +702,7 @@ iframe[seamless]{
 }
 
 @media (max-width: 480px) {
-  #contact #content { margin-top:45px;}
+  #contact #content { margin-top:45px !important;}
   #contact #content a {color: #ccc;}
 }
 
