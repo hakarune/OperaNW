@@ -5,7 +5,7 @@ html, body, div, span, canvas { margin:0; padding:0; }
 
 body {
 	font-family: Helvetica, sans-serif;
-	background: #ff3121 url('images/bgy.gif') ;
+	background: rgba(165, 0, 0, 1) url('images/bgy.gif') ;
 	color:#fff;
 }
 
