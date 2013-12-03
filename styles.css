@@ -9,6 +9,8 @@ body {
 	color:#fff;
 }
 
+.center {text-align: center;}
+
 #header-wrap, #nav-wrap, #main-wrap, #footer-wrap, #total-wrapper {
 	width:100%;
 	background:transparent;
@@ -59,8 +61,8 @@ h4 img {
 
 
 p{
-	font-size: 12px;
-	line-height: 180%;
+	font-size: 16px;
+	line-height: 150%;
 	padding: .5em 0;
 }
 
